@@ -1,0 +1,17 @@
+{
+    "name": "dotra/design-patterns",
+    "description": "practical design patterns",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bashmohandes7",
+            "email": "diaaemad1@gmail.com"
+        }
+    ],
+    "require": {}
+}
